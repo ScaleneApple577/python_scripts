@@ -1,0 +1,61 @@
+Albania : Tirana
+Austria : Vienna
+Belarus : Minsk
+Belgium : Brussels
+Bosnia and Herzegovina : Sarajevo
+Bulgaria : Sofia
+Croatia : Zagreb
+Cyprus : Nikosia
+Czech Republic : Prague
+Denmark : Copenhagen
+England : London
+Finland : Helsinki
+France : Paris
+Germany : Berlin
+Greece : Athens
+Hungary : Budapest
+Ireland : Dublin
+Italy : Rome
+Moldova : Chisinau
+Netherlands : Amsterdam
+Norway : Oslo
+Poland : Warsaw
+Portugal : Lisbon
+Romania : Bucharest
+Russia : Moscow
+Serbia : Belgrade
+Slovakia : Bratsilava
+Spain : Madrid
+Sweden : Stockholm
+Switzerland : Bern
+Turkey : Ankara
+Ukraine : Kiev
+USA : Washington DC
+Nepal : Kathmandu
+India : New Delhi
+Brazil : Brasilia
+Uruguay : Montevideo
+Australia : Canberra
+New Zealand : Wellington
+Canada : Ottawa
+Egypt : Cairo
+Morocco : Rabat
+Algeria : Algiers
+Nigeria : Abuja
+Cameroon : Yaounde
+Ghana : Accra
+Ethiopia : Addis Ababa
+Mali : Bamako
+Senegal : Dakar
+Tanzania : Dar es Salaam
+Zimbabwe : Harare
+Uganda : Kampala
+Sudan : Khartoum
+Rwanda : Kigali
+Togo : Lome
+Angloa : Luanda
+Zambia : Lusaka
+Kenya : Nairobi
+South Africa : Pretoria
+Tunisia : Tunis
+China : Beijing
